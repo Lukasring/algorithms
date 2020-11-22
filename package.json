@@ -1,0 +1,21 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "code for bunch of algorithms and data structures",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lukasring/algorithms.git"
+  },
+  "author": "Lukas P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lukasring/algorithms/issues"
+  },
+  "homepage": "https://github.com/Lukasring/algorithms#readme"
+}
